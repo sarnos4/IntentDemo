@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">IntentDemo</string>
+    <string name="btn1_ma1_label">Move to UI2</string>
+
+    <string-array name="my_itm_lst">
+        <item>CSIT112</item>
+        <item>CSIT151</item>
+        <item>CSIT111</item>
+        <item>CSIT1421</item>
+        <item>CSIT1421</item>
+        <item>CSIT1421</item>
+        <item>CSIT111</item>
+        <item>CSIT114241241</item>
+        <item>CSIT111</item>
+        <item>CSIT111</item>
+        <item>CSIT111</item>
+        <item>CSIT11441</item>
+        <item>CSIT11441</item>
+        <item>CSIT111</item>
+        <item>CSIT111</item>
+        <item>CSIT1121</item>
+        <item>CSIT111</item>
+        <item>CSIT111</item>
+        <item>CSIT1211</item>
+        <item>CSIT1311</item>
+        <item>CSIT1311</item>
+        <item>CSIT1311</item>
+        <item>CSIT111</item>
+        <item>CSIT111</item>
+        <item>CSIT1411</item>
+        <item>CSIT1411</item>
+        <item>CSIT1411</item>
+        <item>CSIT11511</item>
+        <item>CSIT11511</item>
+    </string-array>
+
+</resources>
